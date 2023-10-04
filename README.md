@@ -10,11 +10,6 @@
 ![](https://komarev.com/ghpvc/?username=sadboizyeuem2307)
 
 
-<!--Image-->
-<div target="_blank" align="center">
-  <img align="right" top="500" height="250" alt="IMG" src="assets/image.png">
-</div>
-
 <!--About me-->
 - 🤓 I’m currently studing at [University of Science](https://daihoc.fpt.edu.vn/)
 
@@ -40,7 +35,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,git,github&perline=14"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&perline=14"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,pytorch&perline=14"/>
   </a>
