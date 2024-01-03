@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Computer Vision-Meachine Learning</h2></summary>
+    <summary><h2 style="display: inline-block">Computer Vision-Machine Learning</h2></summary>
   </ul>
 </div>
 
